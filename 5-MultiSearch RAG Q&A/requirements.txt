@@ -1,0 +1,16 @@
+langchain_core
+langchain_community
+langchain_openai
+python-dotenv
+streamlit
+langserve
+fastapi
+uvicorn
+ipykernel
+bs4
+faiss-cpu
+pypdf
+sentence-transformers
+arxiv
+wikipedia
+langchainhub
